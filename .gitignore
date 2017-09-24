@@ -129,7 +129,7 @@ ENV/
 .mypy_cache/
 
 # data
-Fermont.csv
+Fremont.csv
 
 # Mac built-in
 .DS_Store
