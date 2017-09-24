@@ -132,5 +132,5 @@ ENV/
 Fermont.csv
 
 # Mac built-in
-./DS_Store
+.DS_Store
 
